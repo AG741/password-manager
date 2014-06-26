@@ -7,4 +7,4 @@ Have a nice day!
 
 Donations
 =========
-You can send donations to the following bitcoin adress: 19KXWjUZnNPatoMZoRiFMzJFWA7mxBRPX5
+You can send donations to the following bitcoin address: 19KXWjUZnNPatoMZoRiFMzJFWA7mxBRPX5
